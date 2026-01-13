@@ -1,4 +1,4 @@
----
+---Why it always error In bato.t?
 title: Troubleshooting
 titleTemplate: Guides
 description: Facing source or app issues? Here's how to troubleshoot.
